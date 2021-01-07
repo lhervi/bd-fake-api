@@ -7,7 +7,9 @@
             "name": "Guillermo",
             "username": "cgarcia",
             "email": "cgarcia@test.com",
-            "password": "12345"
+            "password": "123c",
+            "role": "user1"
+
         },
         {
             "id": 2,
@@ -16,7 +18,8 @@
             "name": "Roberto",
             "username": "rflores",
             "email": "rflores@test.com",
-            "password": "54321"
+            "password": "123r",
+            "role": "user2"
         },
         {
             "id": 3,
@@ -25,7 +28,18 @@
             "name": "Mirian",
             "username": "mcarrera",
             "email": "mcarrera@test.com",
-            "password": "123456"
+            "password": "123m",
+            "role": "user3"
+        },
+        {
+            "id": 4,
+            "middle": "Marrero",
+            "lastname": "Palma",
+            "name": "Carolina",
+            "username": "palmac",
+            "email": "palmac@test.com",
+            "password": "123p",
+            "role": "admin"
         }
     ]          
 
