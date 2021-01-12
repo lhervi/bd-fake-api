@@ -5,8 +5,8 @@ Fake API usando nodejs
 Para instalar la fake api:
 
 1. Clona el repositorio
-2. Ingresa a la cónsola y ubícate en la carpeta "app-login" 
-3. Desde la carpeta "app-login" ejecuta:
+2. Ingresa a la cónsola y ubícate en la carpeta "bd-fake-api" 
+3. Desde la carpeta "bd-fake-api" ejecuta:
 3.1 npm init -y
 3.2 npm i json-server
 3.3 npm start 
